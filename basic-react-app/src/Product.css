@@ -4,8 +4,7 @@
     margin-top: 15px;
     padding: 0 10px 0 10px;
     text-align: center;
-    }
-    .Product ul{
-        list-style-position: inside;
-        padding: 0;
+    margin-left: 15px;
+    width: 200px;
+    height: 150px;
     }
