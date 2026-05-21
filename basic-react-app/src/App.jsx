@@ -1,10 +1,10 @@
 import "./App.css";
-import Producttab from "./Producttab.jsx";
+import Button from "./Button.jsx"
+import Form from "./Form.jsx";
 function App() {
   return (
     <>
-    <h2 className="head">Blockbuster Deals | Shop Now</h2>
-    <Producttab/>
+    <Form/>
     </>
   );
 }
